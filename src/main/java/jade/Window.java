@@ -11,8 +11,8 @@ import static org.lwjgl.opengl.GL11.*;
 import static org.lwjgl.system.MemoryUtil.NULL;
 
 public class Window {
-    private int width, height;
-    private String title;
+    private final int width, height;
+    private final String title;
     private long glfwWindow;
 
     public float r, g, b, a;
