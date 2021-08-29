@@ -1,6 +1,8 @@
 # java-game-engine
 Game Engine in Java.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/khushalbhardwaj-0111/java-game-engine/badge)](https://www.codefactor.io/repository/github/khushalbhardwaj-0111/java-game-engine)
+
 # fade-to-black
 - It's a desgined test for keyListner utility class.
 - Fades the background to black when *space bar* is pressed.
